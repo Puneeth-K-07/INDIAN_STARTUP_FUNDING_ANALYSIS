@@ -38,7 +38,7 @@ This project analyzes Indian startup funding data from 2020 to 2025 using an int
 
 ## 📥 Dataset
 
-[Download Excel Dataset](./Indian_Startup_Funding_2020_2025.xlsx)
+[Download Excel Dataset](./startup_funds.xlsx)
 
 ## 🌐 Dashboard
 
